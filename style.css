@@ -129,6 +129,7 @@ align-items: center;
   margin: 10px auto;
   text-align: center;
   background-color: rgb(211, 201, 201);
+  border-radius: 16px;
 }
 .new-park{
   text-align: center;
@@ -160,3 +161,13 @@ border: none;
 .section4-btn:hover{
   cursor: pointer;
 }
+/* section five style  */
+.section5{
+  display: flex;
+  width: 1220px;
+  height: 460px;
+  border: 1px solid;
+}
+
+
+
