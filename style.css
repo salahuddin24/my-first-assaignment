@@ -122,4 +122,41 @@ justify-content: center;
 align-items: center;
 }
 
-  
+/* section four style  */
+.section4{
+  width:1220px;
+  height: 480px;
+  margin: 10px auto;
+  text-align: center;
+  background-color: rgb(211, 201, 201);
+}
+.new-park{
+  text-align: center;
+  padding-top: 100px;
+  color: #070211;
+ font-size: 32px;
+ line-height: 56px;
+}
+
+
+.red-color{
+  color: #F00;
+text-align: center;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px; 
+}
+.section4-btn{
+  color: #FFF;
+font-size: 20px;
+background-color: #F00;
+margin-top: 20px;
+padding: 16px 32px;
+justify-content: center;
+align-items: center;
+border-radius: 8px;
+border: none;
+}
+.section4-btn:hover{
+  cursor: pointer;
+}
