@@ -235,11 +235,10 @@ padding-top: 20px;
   width: 1220px;
   height: 730px;
   margin: 100px auto;
-
+  border-radius: 20px;
 }
 .section6-text-area{
 height: 180px;
-width: ;
 text-align: center;
 
 }
@@ -280,7 +279,7 @@ text-align: center;
 .section6-bg-image1{
   height: 460px;
   width: 500px;
-  margin: 0px 50px 250px 180px;
+  margin: 0px 50px 350px 180px;
 }
 .section6-bg-image2{
   margin-bottom: 500px;
