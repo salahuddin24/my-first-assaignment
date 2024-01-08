@@ -234,6 +234,50 @@ padding-top: 20px;
   border: 1px solid;
 }
 
+/* section seven style  */
+.section7{
+  width: 1220px;
+  height: 1100px;
+  margin: 100px auto 0px;
+}
+.best-gift{
+  color:#F00;
+font-size: 24px;
+font-weight: 400;
+}
+.section7-awesome{
+  color: #070211;
+font-size: 48px;
+font-weight: 700;
+padding-top: 10px ;
+}
+.section7-peragraph{
+  width: 896px;
+color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+font-weight: 400;
+padding-top: 18px ;
+padding-bottom:50px ;
+}
+.container-image-section7{
+}
+.rectangle-image{
+  width:390px;
+  height: 430px;
+}
+.rectangle-image-top, .rectangle-image-buttom{
+  display: flex;
+  gap: 16px;
+  padding-left:15px;
+}
+/* .rectangle-image-buttom{
+  display: flex;
+  gap: 14px;
+} */
+
+
+
+
 
 
 
