@@ -278,10 +278,54 @@ padding-bottom:50px ;
   width: 1220px;
   border: 1px solid;
   margin: 50px auto;
-  background: rgba(255, 0, 0, 0.05);
+  background: rgba(255, 0, 0, 0.08);
+  text-align: center
 }
-
-
+.section8-image{
+  margin: 80px auto 10px;
+}
+.section8-title{
+  color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+margin-bottom: 22px;
+}
+.section8-peragraph{
+color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+margin: 20px 188px;
+}
+.section8-input{
+  padding: 22px 0px 22px 25px ;
+  width: 408px;
+height: 35px;
+border-radius: 50px 0px 0px 50px;
+background: #FFF;
+border: none;
+}
+.section8-btn{
+  height: 80px; 
+  background-color: #F00;
+  color: white;
+  width: 150px;
+  border-radius: 0px 50px 50px 0px;
+  font-size: 18px;
+  text-align: center;
+  border: none;
+  
+}
+.section8-btn:hover{
+  cursor: pointer;
+}
 
 
 
