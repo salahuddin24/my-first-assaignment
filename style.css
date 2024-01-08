@@ -227,12 +227,88 @@ height: 140px;
 flex-shrink: 0;
 padding-top: 20px;
 }
-/* section seven style  */
+/* section six style  */
 .section6{
   width: 1220px;
   height: 730px;
   border: 1px solid;
+  margin: 100px auto;
+
 }
+.section6-text-area{
+height: 180px;
+width: ;
+text-align: center;
+
+}
+.section6-function{
+  color: #070211;
+font-size: 24px;
+font-weight: 700;
+line-height: normal;
+}
+.section6-holiday{
+  color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+
+}
+.section6-span{
+  color: #F00;
+}
+.section6-peragraph{
+  margin: 0px auto;
+  width: 950px;
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight:400;
+line-height: 32px;
+text-align: center;
+}
+.section6-bg-image{
+  height: 550px;
+  width:1220px ;
+    background-image: url('./resources/Rectangle\ 2.png'), url('./resources/Rectangle\ 1.png');
+  background-position:bottom, top right ;
+  background-repeat: no-repeat;
+   
+}
+.section6-bg-image1{
+  height: 460px;
+  width: 500px;
+  margin: 0px 50px 250px 180px;
+}
+.section6-bg-image2{
+  margin-bottom: 420px;
+  margin-right: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* section seven style  */
 .section7{
