@@ -270,11 +270,16 @@ padding-bottom:50px ;
   gap: 16px;
   padding-left:15px;
 }
-/* .rectangle-image-buttom{
-  display: flex;
-  gap: 14px;
-} */
 
+
+/* section eight style  */
+.section8{
+  height: 610px;
+  width: 1220px;
+  border: 1px solid;
+  margin: 50px auto;
+  background: rgba(255, 0, 0, 0.05);
+}
 
 
 
